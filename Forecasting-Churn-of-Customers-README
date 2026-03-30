@@ -1,9 +1,0 @@
-A telecom operator decided to offer promotional codes and a special plan option for users who are planning to leave.
-  The project task was to build a model to predict customer churn.
-• Created machine learning models, including Logistic Regression, RandomForestClassifier,
-  KNeighborsClassifier, and CatBoostClassifier that predicted which customers were at risk of leaving the
-  telecommunications company.
-• The selected model was a RandomForestClassifier with tuned hyperparameters using
-  GridSearchCV.
-• By sending the predicted churning customers promotions, assuming a typical rate of
-  conversion, this model will reduce churn by 32%.
